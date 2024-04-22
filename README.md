@@ -1,2 +1,2 @@
 # AiI_Android
-Artificial Intelligence Interface For Android
+AI Interface For Android
